@@ -33,8 +33,8 @@ npm run test:watch
 
 ## Further reading
 
-- [Node.js path](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-nodejs/?wt.mc_id=github-social-chnoring)
+- [Node.js path](https://docs.microsoft.com/learn/paths/build-javascript-applications-nodejs/?WT.mc_id=academic-0000-chnoring)
 
    There is Node.js path on [LEARN platform](aka.ms/learn)
 
-- [Build Web applications in Node.js](https://docs.microsoft.com/en-us/learn/modules/build-web-api-nodejs-express/?wt.mc_id=github-social-chnoring)
+- [Build Web applications in Node.js](https://docs.microsoft.com/learn/modules/build-web-api-nodejs-express/?WT.mc_id=academic-0000-chnoring)
